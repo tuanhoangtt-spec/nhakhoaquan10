@@ -1,6 +1,6 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Top Địa Chỉ Nha Khoa Uy Tín Quận 10: Review Tiêu Chí & Bảng Giá Chi Tiết"
+excerpt: "Bạn đang tìm nha khoa uy tín Quận 10? Khám phá ngay các tiêu chí đánh giá chất lượng y khoa, đội ngũ bác sĩ giỏi và review chi tiết phòng khám hàng đầu hiện nay."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
